@@ -1,1 +1,12 @@
 # html_difference
+
+## Requirement 
+   Python 3.6.5
+
+## Installation
+   ```pip install html-similarity```
+   
+## Usage 
+   `python .\diff2HtmlCompare.py -o URL1 -n URL2`
+
+    
